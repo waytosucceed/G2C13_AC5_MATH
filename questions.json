@@ -1,0 +1,47 @@
+[
+  {
+      "questionNo": "Q1",
+      "question": "Ms. Harper is checking the chocolates.Which subtraction equation is described in the picture?<br><img width='45%' src='./images/11.jpg'>",
+      "options": [
+          "15 - 6 = 9",
+          "15 - 7 = 8"
+      ],
+      "correct": 0
+  },
+  {
+      "questionNo": "Q2",
+      "question": "Ms. Harper observes the candy bags.Which subtraction equation is described in the picture?<br><img width='45%' src='./images/12.jpg'> ",
+      "options": [
+          "10 - 6 = 4",
+          "10 - 7 = 3"
+      ],
+      "correct": 1
+  },
+  {
+      "questionNo": "Q3",
+      "question": "Ms. Harper Sees the keychains. Which subtraction equation is described in the picture?<br><img width='45%' src='./images/13.jpg'>",
+     "options": [
+          "15 - 9 = 6",
+          "15 - 8 = 7"
+      ],
+      "correct": 0
+  },
+  {
+      "questionNo": "Q4",
+      "question": "Ms. Harper observes the bracelets. Which subtraction equation is described in the picture?<br><img width='45%' src='./images/14.jpg'>",
+      "options": [
+          "8 - 3 = 5",
+          "8 - 2 = 6"
+      ],
+      "correct": 1
+  },
+  {
+      "questionNo": "Q5",
+      "question": "Ms. Harper Sees the pencil boxes.Which subtraction equation is described in the picture?<br><img width='45%' src='./images/15.jpg'>",
+      "options": [
+          "24 - 10 = 14",
+          "24 - 11 = 13"
+      ],
+      "correct": 1
+  }
+]

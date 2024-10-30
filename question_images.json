@@ -1,0 +1,84 @@
+[
+  {
+    "questionNo": "",
+    "question": "Ms. Harper is checking the number of stuffed toys.<br>Which picture shows 5 - 3 = 2?",
+    
+    "optionsImages": [
+      "./images/1.jpg",
+      "./images/2.jpg"
+    ],
+    "correct": 0,
+    "optionsAudio": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "questionNo": "",
+    "question": "Ms. Harper counts the number of colour boxes on the table. <br>Which picture shows 4 - 3 = 1?",
+    
+    "optionsImages": [
+      "./images/3.jpg",
+      "./images/4.jpg"
+    ],
+    "correct":0,
+    "optionsAudio": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "questionNo": "",
+    "question": "She is checking the  toy cars. <br>Which picture shows 7 - 3 = 4?",
+    
+    "optionsImages": [
+      "./images/5.jpg",
+      "./images/6.jpg"
+    ],
+    "correct": 1,
+    "optionsAudio": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "questionNo": "",
+    "question": " Ms. Harper notices the number of bracelets available.<br>Which picture shows 8 - 5 = 3?",
+    
+    "optionsImages": [
+      "./images/7.jpg",
+      "./images/8.jpg"
+    ],
+    "correct": 0,
+    "optionsAudio": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "questionNo": "",
+    "question": "Ms. Harper looks at the remaining game tickets.<br> Which picture shows 7 - 3 = 4?",
+    
+    "optionsImages": [
+      "./images/9.jpg",
+      "./images/10.jpg"
+    ],
+    "correct": 1,
+    "optionsAudio": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  }
+      
+  ]
+  
